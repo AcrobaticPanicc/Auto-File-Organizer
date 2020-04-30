@@ -8,4 +8,4 @@ Run organizer_gui.py to run the GUI app.
 
 ## Running tests
 
-Integration an unit test are in the test directory. 
+Integration an unit test are in the test directory.
