@@ -6,7 +6,7 @@ Python GUI app to oraganize files automatically by file type.
 
 Run the interactive program with:
 
-$python organizer_gui.py
+>$python organizer_gui.py
 
 ## Running tests
 
